@@ -1,0 +1,2 @@
+# shadowsocks_proxy_for_git
+利用shadowsocks给git配置代理 加速
